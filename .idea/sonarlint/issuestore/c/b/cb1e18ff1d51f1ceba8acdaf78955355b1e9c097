@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8ï×Æú¬3
+P
+java:S1128".Remove this unused import 'javax.swing.table'.(Ï»¬Âøÿÿÿÿ8ßíÆú¬3
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8àíÆú¬3
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8âíÆú¬3
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8äíÆú¬3
+S
+java:S1128"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8çíÆú¬3
+V
+java:S1128"9Remove this unused import 'java.awt.event.MouseListener'.(«Äñö8éíÆú¬3
